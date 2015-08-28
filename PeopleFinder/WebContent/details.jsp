@@ -10,7 +10,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-${table}
+${table} 
 <br>
 <h2><a href = "index.jsp">Return</a></h2>
 <br>

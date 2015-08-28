@@ -10,7 +10,7 @@
 <script src = "validationForm.js"></script>
 <title>Zekun</title>
 </head>
-<body>
+<body> 
 <h2>Welcome to HR system!</h2>
 <h2>Enter the person's last name in the text box below: </h2>
 <form name = "myForm" class="form-horizontal" method="post" action="finderServlet" onsubmit="return validateForm()">

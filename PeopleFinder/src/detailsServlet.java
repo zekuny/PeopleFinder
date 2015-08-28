@@ -12,7 +12,7 @@ import javax.servlet.http.*;
 @WebServlet("/detailsServlet")
 public class detailsServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-	private String table;
+	private String table; 
 	private static Connection conn = null;
 	public void init() throws ServletException{
 		// Do required initialization
